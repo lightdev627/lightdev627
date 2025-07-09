@@ -1,23 +1,21 @@
 
-# 👋 Hello World! I'm Kaan, a passionate software engineer 🚀
+# 👋 Hello World! I'm senior Full-Stack & AI developer 🚀
 
-## 💻 I love crafting elegant code and solving complex problems. My journey in the world of programming started 5 years ago, and I've been on an exciting learning adventure ever since.
+## 💻 I love crafting elegant code and solving complex problems. My journey in the world of programming started 7 years ago, and I've been on an exciting learning adventure ever since.
 
-## 🌐 I thrive on building scalable and efficient applications. I'm dedicated to delivering high-quality software solutions, from designing robust architectures to implementing clean and maintainable code.
+## 🌐 I thrive on building scalable and efficient applications based on AI. I'm dedicated to delivering high-quality software solutions, from designing robust architectures to implementing clean and maintainable code.
 
 ### 🚀 Some of my key skills include:
-   - Full Stack Development
-   - Mobile App Development
-   - Cloud Development
-   - Game Development
+   - Front-end Development
+   - Back-end Development
+   - AI Development
    - Data Science and Machine Learning
-   - Web3 Blockchain Development
 
 ### 🔧 Technical Expertise:
 - Programming Languages: Typescript, Python, JavaScript, C#, Java, Solidity
-- Database: MongoDB, PostgreSQL, Firebase, Redis, AstraDB
+- Database: MongoDB, PostgreSQL, MySQL, Firebase, Redis, AstraDB
 - Web Development: HTML5, CSS3, Bootstrap, Tailwindcss
-- Frameworks: .NET, Django, ExpressJS, Flask, NextJS, React
+- Frameworks: .NET, Django, ExpressJS, Flask, NextJS, React, Vue, Angular
 - Software: Postman, Docker, Visual Studio, Visual Paradigm, AWS, PGAdmin
 - Version Control: Git
 
